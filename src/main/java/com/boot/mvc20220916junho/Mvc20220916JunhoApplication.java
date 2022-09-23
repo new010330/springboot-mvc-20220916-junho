@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Mvc20220916JunhoApplication {
 
 	public static void main(String[] args) {SpringApplication.run(Mvc20220916JunhoApplication.class, args);
-
+		//Shift + F9 = Debug
+		//Shift + F10 = run
 	}
 
 }
